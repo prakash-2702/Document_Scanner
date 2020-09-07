@@ -27,10 +27,9 @@ This section should list the technologies you used for this project. Leave any a
 
 ### File Structure
     .
-    ├── app.py                  # Explain the function preformed by this file in short
-    ├── docs                    # Documentation files (alternatively `doc`)
-    │   ├── report.pdf          # Project report
-    │   └── results             # Folder containing screenshots, gifs, videos of results
+    ├── doc_scan.py             # Driver code
+    ├── images                  # Images for testing the code
+    │   ├── receipt.jpg         # Sample image
     ├── src                     # Source files (alternatively `lib` or `app`)
     ├── ...
     ├── test                    # Test files (alternatively `spec` or `tests`)
@@ -50,7 +49,9 @@ This section should list the technologies you used for this project. Leave any a
 
 * Python
 * OpenCV
-* 
+* Numpy
+* Argparse
+* Imutils
 
 ### Installation
 1. Clone the repo
