@@ -48,25 +48,14 @@ This section should list the technologies you used for this project. Leave any a
 
 ### Prerequisites
 
-* See [SETUP.md](https://link/to/setup.md) if there are plenty of instructions
-* List of softwares with version tested on 
-```sh
-How to install them
-```
-
-* **ESP-IDF v4.0 and above**
-
-  You can visit the [ESP-IDF Programmming Guide](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html#installation-step-by-step) for the installation steps.
-  
-* See if you can make requirements.txt  
-```sh
-pip install -r "requirements.txt"
-```
+* Python
+* OpenCV
+* 
 
 ### Installation
 1. Clone the repo
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/prakash-2702/Document_Scanner.git
 ```
 <!-- CONTRIBUTORS -->
 ## Contributors
