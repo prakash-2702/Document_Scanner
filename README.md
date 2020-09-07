@@ -8,7 +8,7 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Contributors](#contributors)
-* [Resources](#acknowledgements-and-resources)
+* [Resources](#resources)
 
 
 <!-- ABOUT THE PROJECT -->
