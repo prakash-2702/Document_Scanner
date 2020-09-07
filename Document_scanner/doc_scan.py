@@ -1,5 +1,5 @@
 # import the necessary packages
-# python scan.py --image images/page.jpg
+# python doc_scan.py --image images/receipt.jpg
 from imutils.perspective import four_point_transform
 import numpy as np
 import argparse
