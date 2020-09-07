@@ -1,11 +1,5 @@
-If you are not familiar with writing readme refer [this](https://guides.github.com/features/mastering-markdown/). 
-> Don't include this line in readme :smiley:   
+# Document_Scanner  
 
-# Project Title  
-One Line description of project goes here  
-
-
-<!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
 * [About the Project](#about-the-project)
@@ -14,13 +8,8 @@ One Line description of project goes here
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
-* [Results and Demo](#results-and-demo)
-* [Future Work](#future-work)
-* [Troubleshooting](#troubleshooting)
 * [Contributors](#contributors)
 * [Acknowledgements and Resources](#acknowledgements-and-resources)
-* [License](#license)
 
 
 <!-- ABOUT THE PROJECT -->
@@ -49,11 +38,9 @@ This section should list the technologies you used for this project. Leave any a
     │   ├── integration         # End-to-end, integration tests (alternatively `e2e`)
     │   └── unit                # Unit tests
     ├── ...
-    ├── tools                   # Tools and utilities
-    ├── LICENSE
+    ├── tools                   
     ├── README.md 
-    ├── Setup.md                # If Installation instructions are lengthy
-    └── todo.md                 # If Future developments and current status gets lengthy
+   
     
 
 <!-- GETTING STARTED -->
@@ -81,53 +68,9 @@ pip install -r "requirements.txt"
 ```sh
 git clone https://github.com/your_username_/Project-Name.git
 ```
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-```
-How to run the driver code
-```
-
-
-<!-- RESULTS AND DEMO -->
-## Results and Demo
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space.  
-[**result screenshots**](https://result.png)  
-![**result gif or video**](https://result.gif)  
-
-| Use  |  Table  |
-|:----:|:-------:| 
-| For  | Comparison|
-
-
-<!-- FUTURE WORK -->
-## Future Work
-* See [todo.md](https://todo.md) for seeing developments of this project
-- [x] Task 1
-- [x] Task 2
-- [ ] Task 3
-- [ ] Task 4
-
-
-<!-- TROUBLESHOOTING -->
-## Troubleshooting
-* Common errors while configuring the project
-
-
 <!-- CONTRIBUTORS -->
 ## Contributors
-* [Member Name](https://github.com/id)
-* [Member Name](https://github.com/id)
-
-
+* [Prakash Nadgeri](https://github.com/prakash-2702)
 <!-- ACKNOWLEDGEMENTS AND REFERENCES -->
-## Acknowledgements and Resources
-* [SRA VJTI](http://sra.vjti.info/) Eklavya 2020  
-* Refered [this](https://link) for achieving this  
-...
-
-
-<!-- LICENSE -->
-## License
-Describe your [License](LICENSE) for your project. 
+## Resources
+* https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
