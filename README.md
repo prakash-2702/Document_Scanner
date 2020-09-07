@@ -17,9 +17,9 @@
 ### File Structure
     .
     ├── Document_scanner        
-    │      ├── doc_scan.py        # Driver code
-    │      ├── images             # Images for testing the code
-    │          ├── receipt.jpg   # Sample image
+    │      ├── doc_scan.py         # Driver code
+    │      ├── images              # Images for testing the code
+    │          ├── receipt.jpg     # Sample image
     ├── README.md 
 <!-- GETTING STARTED -->
 ## Getting Started
