@@ -13,13 +13,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Product Name Screen Shot][product-screenshot]](https://example.com)  
 
 ### File Structure
     .
     ├── Document_scanner        
-          ├── doc_scan.py        # Driver code
-          ├── images             # Images for testing the code
+    │      ├── doc_scan.py        # Driver code
+    │      ├── images             # Images for testing the code
     │          ├── receipt.jpg   # Sample image
     ├── README.md 
 <!-- GETTING STARTED -->
