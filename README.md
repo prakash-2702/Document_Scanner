@@ -48,3 +48,4 @@ git clone https://github.com/prakash-2702/Document_Scanner.git
 <!-- ACKNOWLEDGEMENTS AND REFERENCES -->
 ## Resources
 * https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html
+* [pyimagesearch](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/)
